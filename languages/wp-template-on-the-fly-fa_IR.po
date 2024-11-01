@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-template-on-the-fly-fa_IR\n"
+"POT-Creation-Date: 2013-10-18 21:33+0330\n"
+"PO-Revision-Date: 2013-10-18 21:34+0330\n"
+"Last-Translator: علی بابایی <eng.babaei@dr.com>\n"
+"Language-Team: alibabaei.com <wp-template-on-the-fly@alibabaei.com>\n"
+"Language: Farsi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: /ajax\n"
+
+#: wp-template-on-the-fly.php:56 wp-template-on-the-fly.php:87
+msgid "WP Template On The Fly"
+msgstr "قالب پروازی وردپرس"
+
+#: wp-template-on-the-fly.php:57
+msgid "Template On The Fly"
+msgstr "قالب پروازی"
+
+#: wp-template-on-the-fly.php:82
+msgid "error"
+msgstr "خطا"
+
+#: wp-template-on-the-fly.php:83
+msgid "Save Changes To Sidebars"
+msgstr "ذخیره تغییرات به نوارکناری ها"
+
+#: wp-template-on-the-fly.php:84
+msgid "active"
+msgstr "فعال"
+
+#: wp-template-on-the-fly.php:86
+msgid "ltr"
+msgstr "rtl"
+
+#: wp-template-on-the-fly.php:88
+msgid "Get Full Support {Help,Tutorial,Bug Report/Fix,Improvements,...}"
+msgstr "دریافت پشتیبانی کامل {کمک، آموزش، گزارش/رفع مشکل، بهبود،...}"
+
+#: wp-template-on-the-fly.php:91
+msgid "Loading..."
+msgstr "بارگذاری..."
+
+#: wp-template-on-the-fly.php:96
+msgid "Templates"
+msgstr "قالب ها"
+
+#: wp-template-on-the-fly.php:97
+msgid "Sidebars"
+msgstr "نوارکناری ها"
+
+#: wp-template-on-the-fly.php:98
+msgid "Template-Sidebar"
+msgstr "قالب-نوارکناری"
+
+#: wp-template-on-the-fly.php:102
+msgid "All Templates"
+msgstr "همه ی قالب ها"
+
+#: wp-template-on-the-fly.php:103
+msgid "Add New"
+msgstr "افزودن"
+
+#: wp-template-on-the-fly.php:110
+msgid "Apply an action to selected Templates:"
+msgstr "انجام یک کار روی قالب برگزیده:"
+
+#: wp-template-on-the-fly.php:116
+msgid "Filters:"
+msgstr "صافی ها:"
+
+#: wp-template-on-the-fly.php:119
+msgid "Show Primary"
+msgstr "نمایش اصلی"
+
+#: wp-template-on-the-fly.php:122
+msgid "Show Active"
+msgstr "نمایش فعال"
+
+#: wp-template-on-the-fly.php:125
+msgid "Show Inactive"
+msgstr "نمایش غیرفعال"
+
+#: wp-template-on-the-fly.php:128
+msgid "Show Deleted"
+msgstr "نمایش حذف شده"
+
+#: wp-template-on-the-fly.php:133 wp-template-on-the-fly.php:141
+msgid "Sort("
+msgstr "ترتیب("
+
+#: wp-template-on-the-fly.php:143
+msgid "Ascending"
+msgstr "بالارونده"
+
+#: wp-template-on-the-fly.php:144
+msgid "Descending"
+msgstr "پایین رونده"
+
+#: wp-template-on-the-fly.php:150
+msgid "Pagination:"
+msgstr "صفحه بندی:"
+
+#: wp-template-on-the-fly.php:152
+msgid "Page Number:"
+msgstr "شماره صفحه:"
+
+#: wp-template-on-the-fly.php:155
+msgid "From:"
+msgstr "از:"
+
+#: wp-template-on-the-fly.php:158
+msgid "Counts Per Page:"
+msgstr "تعداد در هر صفحه:"
+
+#: wp-template-on-the-fly.php:162
+msgid "submit"
+msgstr "فرستادن"
+
+#: wp-template-on-the-fly.php:168
+msgid "Select Template Type:"
+msgstr "یک نوع قالب برگزینید:"
+
+#: wp-template-on-the-fly.php:181
+msgid "Name of Sidebar:"
+msgstr "نام نوارکناری:"
+
+#: wp-template-on-the-fly.php:184
+msgid "Description of Sidebar:"
+msgstr "توصیف یک نوارکناری:"
+
+#: wp-template-on-the-fly.php:186
+msgid "Create Sidebar"
+msgstr "ساخت نوارکناری"
+
+#: wp-template-on-the-fly.php:188
+msgid "Name of Sidebar must be UNIQUE"
+msgstr "نام نوارکناری باید یکتا باشد"
+
+#: wp-template-on-the-fly.php:195
+msgid "Select a Template to modify:"
+msgstr "یک قالب را برای ویرایش برگزینید:"
+
+#: wp-template-on-the-fly.php:210
+msgid "Style Pad"
+msgstr "صفحه سبک"
+
+#: wp-template-on-the-fly.php:211
+msgid "Target:"
+msgstr "هدف:"
+
+#: wp-template-on-the-fly.php:215
+msgid "Save Style"
+msgstr "ذخیره سبک"
+
+#: ajax/s.php:26
+msgid "Remove"
+msgstr "حذف"
+
+#: ajax/s.php:27
+msgid "Name"
+msgstr "نام"
+
+#: ajax/s.php:28
+msgid "Id"
+msgstr "شناسه"
+
+#: ajax/s.php:29
+msgid "Description"
+msgstr "توصیف"
+
+#: ajax/t_new.php:20
+msgid "Create Template"
+msgstr "ساخت قالب"
+
+#: ajax/t_new.php:30 ajax/t_new.php:227
+msgid "Select a Post Type:"
+msgstr "یک نوع نوشته برگزینید:"
+
+#: ajax/t_new.php:45
+msgid "Input year number in 4 digits format:"
+msgstr "شماره سال را به صورت 4 رقمی وارد کنید:"
+
+#: ajax/t_new.php:54
+msgid "Input month number in 2 digits format:"
+msgstr "شماره ماه را به صورت 2 رقمی وارد کنید:"
+
+#: ajax/t_new.php:63
+msgid "Input day number of the month:"
+msgstr "شماره روز در ماه را وارد کنید:"
+
+#: ajax/t_new.php:72
+msgid "Input week number of the year:"
+msgstr "شماره هفته در سال را وارد کنید:"
+
+#: ajax/t_new.php:82 ajax/t_new.php:98
+msgid "Select a Taxonomy:"
+msgstr "یک رده برگزینید:"
+
+#: ajax/t_new.php:110
+msgid "Select a Term:"
+msgstr "یک عبارت برگزینید:"
+
+#: ajax/t_new.php:131 ajax/t_new.php:147
+msgid "Select a Category:"
+msgstr "یک دسته بندی برگزینید:"
+
+#: ajax/t_new.php:163 ajax/t_new.php:179
+msgid "Select a Tag:"
+msgstr "یک برچسب برگزینید:"
+
+#: ajax/t_new.php:195 ajax/t_new.php:211
+msgid "Select an Author:"
+msgstr "یک نویسنده برگزینید:"
+
+#: ajax/t_new.php:250
+msgid "Select a Mimetype_Subtype:"
+msgstr "یک نوع_زیرنوع فایل برگزینید:"
+
+#: ajax/t_new.php:272
+msgid "Select a Subtype:"
+msgstr "یک زیرنوع فایل برگزینید:"
+
+#: ajax/t_new.php:293
+msgid "Select a Mimetype:"
+msgstr "یک نوع فایل برگزینید:"
+
+#: ajax/t_new.php:309 ajax/t_new.php:325
+msgid "Select a Page:"
+msgstr "یک صفحه برگزینید:"
+
+#: ajax/t_new.php:340
+msgid "Insert a Custom name for your Template:"
+msgstr "یک نام دلخواه برای قالب خود برگزینید:"
+
+#: ajax/t_s.php:43
+msgid "Select a Sidebar to Add:"
+msgstr "یک نوارکناری را برای افزودن برگزینید:"
+
+#: ajax/t_s.php:57
+msgid "Sort:"
+msgstr "ترتیب:"
+
+#: ajax/t_s.php:58
+msgid "Delete:"
+msgstr "حذف:"
+
+#: ajax/t_s.php:59
+msgid "Name:"
+msgstr "نام:"
+
+#: ajax/t_tools.php:50
+msgid "Breadcrumb:"
+msgstr "مسیر:"
+
+#: ajax/t_tools.php:52
+msgid "main"
+msgstr "خانه"
+
+#: ajax/t_tools.php:77
+msgid "Select"
+msgstr "انتخاب"
+
+#: ajax/t_tools.php:78
+msgid "Template"
+msgstr "قالب"
+
+#: ajax/t_tools.php:79
+msgid "Primary"
+msgstr "اصلی"
+
+#: ajax/t_tools.php:80
+msgid "Statu"
+msgstr "وضعیت"
+
+#: ajax/t_tools.php:81
+msgid "Parent"
+msgstr "پدر"
+
+#: ajax/t_tools.php:82
+msgid "Action"
+msgstr "کار"
